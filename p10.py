@@ -5,7 +5,6 @@ data = {
     'Name': ['Alice', 'Bob', 'Charlie', 'David', 'Eva'],
     'Age': [20, 22, 21, 23, 20],
     'Marks': [85, 90, 78, 88, 95],
-    'City': ['Delhi', 'Mumbai', 'Kochi', 'Chennai', 'Bangalore']
 }
 
 # Create a DataFrame from the dictionary
